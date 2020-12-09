@@ -27,7 +27,7 @@ class Solution {
             pow--;
             
         }
-        
+       
 
         return sum;
     }
