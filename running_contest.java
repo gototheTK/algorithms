@@ -15,7 +15,7 @@ class Solution {
            }
            
        }
-        
+       
         
         return answer.equals("") ? participant[participant.length-1]:answer;
         
