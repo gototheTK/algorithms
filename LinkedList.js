@@ -47,6 +47,7 @@ function LinkedList() {
     }
 
     while (index >= length && index > -1 && current.next) {
+      // 변수선언
       previous = current;
       current = current.next;
 
